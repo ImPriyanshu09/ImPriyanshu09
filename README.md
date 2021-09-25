@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impriyanshu09" alt="impriyanshu09" /></a> </p>
 <p align="left"> <a href="https://twitter.com/blkvenin" target="blank"><img src="https://img.shields.io/twitter/follow/blkvenin?logo=twitter&style=for-the-badge" alt="blkvenin" /></a> </p>
 
-<img align="right"  width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<img align="right"  width="400" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
 - 🔭 I’m currently working on **face emotion recognition system**
 
